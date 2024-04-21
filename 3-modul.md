@@ -1,4 +1,11 @@
 <details>
+<summary>Collection Questions</summary>
+
+* 1
+* 2
+</details>
+
+<details>
 <summary>Git Questions</summary>
 
 * Git nima va nima uchun kerak?
