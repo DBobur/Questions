@@ -1,8 +1,8 @@
 <details>
   <summary>Git</summary>
   
-Git nima va nima uchun kerak?
-Git ning eng asosiy bo’lgan 10 ta camandasini va ularning vazifasi aytib bering?
+1.Git nima va nima uchun kerak?
+2.Git ning eng asosiy bo’lgan 10 ta camandasini va ularning vazifasi aytib bering?
 Git reset, revert va stash camanadalari vazifalari?
 Git diff camandasi vaizfasi?
 Git fetch camandasi nima vazifa bajaradi?
