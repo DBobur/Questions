@@ -23,6 +23,7 @@
 <summary>OOP part 2</summary>
 
 * Inheritance nima?
+* Inheritance turlari? va ularning farqlari?
 * Access modifier nima va qanday turlari bor?
 * Access modifierlarning turlariga tarif bering!?
 * Access modifierlarni qaysilarini class bilan ishlata olmaysiz? va nega?
