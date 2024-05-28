@@ -37,7 +37,7 @@
 * What is the difference between collection and collections?
 * Difference between arrayList and linkedList in the java collection framework?
 * What is an iterator?
-* Javada native data typelar qaysilar?
+* Java native data typelar qaysilar?
 </details>
 
 <details>
