@@ -22,6 +22,7 @@
 * ThreadPool nima? nima uchun javada threadPooldan foydalanish kerak?
 * Javada deadlock nima ? va undan qanday qochish mumkin?
 * Livelock va deadlock orasidagi farq?
+* Java native data typelar qaysilar?
 </details>
 
 <details>
