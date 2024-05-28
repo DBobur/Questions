@@ -37,6 +37,7 @@
 * What is the difference between collection and collections?
 * Difference between arrayList and linkedList in the java collection framework?
 * What is an iterator?
+* Javada native data typelar qaysilar?
 </details>
 
 <details>
@@ -51,15 +52,19 @@
 <details>
 <summary>IO</summary>
 
-* What is file?
-* What are the different operations able to operate the file?
-* 
 </details>
 
 <details>
 <summary>Maven</summary>
 
-* What is maven?
-* What does maven help with?
-* What are the different elements that Maven takes care of?
+* Maven nima?
+* Maven bizga qanday yordam beradi?
+* Mavenning qanday elementlari mavjud?
+* Plugin o'zi nima? va qanday turlarini bilasiz?
+* git bushda qanday kamanda orqali yangi maven proyect yaratish mumkin?
+* mavenning ko'p ishlatiladigan kamandalaridan sanab bering?
+* Biz mavenda o'z dependensiyimizni qanday yaratamiz?
+* Maven loyihasi yaratganingizda qanday katalog tuzulmasi hosil bo'ladi?
+* Json nima?
+* Json malumot turi qachon chiqqan? va ungacha uning o'rnini asosan qaysi malumot turlari bosgan?
 </details>
