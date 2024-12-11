@@ -95,28 +95,42 @@
 <summary>Collection And Exception</summary>
 </details>
 
-[//]: # (Advanced Java )
+[//]: # (Advanced Java)
 <details>
-<summary>Advanced Java</summary>
-<ul>
-        <delails><summary>Multithreading</summary></delails>
-    </ul>
+  <summary>Advanced Java</summary>
 
-<ul>
-        <delails><summary>Java Time APIs</summary>
-            <ul>
-                <li>1</li>
-                <li>1</li>
-                <li>1</li>
-            </ul>
-        </delails>
+  <details>
+    <summary>Multithreading</summary>
+    <ul>
+      <li>Multithreading nima?</li>
+      <li>Thread yaratishning usullari qanday?</li>
     </ul>
+  </details>
 
-<ul>
-        <delails><summary>IO/NIO</summary></delails>
+  <details>
+    <summary>Java Time APIs</summary>
+    <ul>
+      <li>Java Time API qanday ishlaydi?</li>
+      <li>LocalDate va LocalDateTime o'rtasidagi farq nima?</li>
+      <li>ZonedDateTime qanday ishlatiladi?</li>
     </ul>
+  </details>
 
-<ul>
-        <delails><summary>Memory Management</summary></delails>
+  <details>
+    <summary>IO/NIO</summary>
+    <ul>
+      <li>IO va NIO o'rtasidagi farq nima?</li>
+      <li>Java NIO yordamida fayllarni qanday o'qib va yozib olish mumkin?</li>
     </ul>
+  </details>
+
+  <details>
+    <summary>Memory Management</summary>
+    <ul>
+      <li>Java'da Garbage Collection qanday ishlaydi?</li>
+      <li>Stack va Heap xotira o'rtasidagi farq nima?</li>
+    </ul>
+  </details>
+
 </details>
+
