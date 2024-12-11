@@ -98,4 +98,19 @@
 [//]: # (Advanced Java )
 <details>
 <summary>Advanced Java</summary>
+<ul>
+        <delails><summary>Multithreading</summary></delails>
+    </ul>
+
+<ul>
+        <delails><summary>Java Time APIs</summary></delails>
+    </ul>
+
+<ul>
+        <delails><summary>IO/NIO</summary></delails>
+    </ul>
+
+<ul>
+        <delails><summary>Memory Management</summary></delails>
+    </ul>
 </details>
