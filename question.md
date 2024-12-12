@@ -6,8 +6,9 @@
   <details>
     <summary>JDK</summary>
     <ul>
-      <li>JDK nima va uni qanday qilib o'rnatasiz?</li>
-      <li>JDK va JRE o'rtasidagi farq nima?</li>
+      <li>JDK nima?</li>
+      <li>JRE nima?</li>
+      <li>JVM nima?</li>
     </ul>
   </details>
 
@@ -225,8 +226,9 @@
 
   <ul><details>
     <summary>JVM</summary>
-
-    
+    <ul>
+      <li>Ular bir-birlariga qanday bog'liq? Yani vazifasi bo'lak va bir-birlarisiz ishlay oladimi o'z vazifalari ustiga?</li>
+    </ul>
 </details></ul>
 </details>
 
