@@ -287,62 +287,12 @@
   </ul>
 </details>
 
-[//]: # (Java 8 Futures And Functional Programming)
+[//]: # (Database)
 <details>
-  <summary>Java 8 Futures And Functional Programming</summary>
+<summary>Database </summary>
 
-  <ul>
-  <details>
-    <summary>Futures</summary>
-    <ul>
-      <li>Future nima va u qanday ishlatiladi?</li>
-      <li>CompletableFuture nima va u Future'dan qanday farq qiladi?</li>
-      <li>Futures bilan parallel hisob-kitoblarni qanday amalga oshirish mumkin?</li>
-      <li>Future chaining qanday ishlaydi?</li>
-    </ul>
-  </details>
-
-  <details>
-    <summary>Functional Programming</summary>
-    <ul>
-      <li>Java'da functional programming nima?</li>
-      <li>Lambda expressions qanday ishlaydi?</li>
-      <li>Stream API nima va u qanday qo'llaniladi?</li>
-      <li>Method reference nima va uni qachon ishlatish kerak?</li>
-      <li>Functional interfaces nima va qanday misollar mavjud?</li>
-    </ul>
-  </details>
-  </ul>
 </details>
 
-[//]: # (Database And JDBC)
-<details>
-  <summary>Database And JDBC</summary>
-
-  <ul>
-  <details>
-    <summary>Database</summary>
-    <ul>
-      <li>Ma'lumotlar bazasi nima va u qanday ishlaydi?</li>
-      <li>SQL va NoSQL o'rtasidagi farq nima?</li>
-      <li>Normalization nima va uning turlari qanday?</li>
-      <li>Primary key, Foreign key va Index nima?</li>
-      <li>Transaction nima va uning xususiyatlari (ACID)?</li>
-    </ul>
-  </details>
-
-  <details>
-    <summary>JDBC</summary>
-    <ul>
-      <li>JDBC nima va u qanday ishlatiladi?</li>
-      <li>JDBC driver nima va uning turlari qanday?</li>
-      <li>`Connection`, `Statement`, va `ResultSet` qanday ishlaydi?</li>
-      <li>PreparedStatement nima va u oddiy Statement'dan qanday afzalliklarga ega?</li>
-      <li>Batch processing JDBC yordamida qanday amalga oshiriladi?</li>
-    </ul>
-  </details>
-  </ul>
-</details>
 
 [//]: # (ORM)
 <details>
