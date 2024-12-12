@@ -227,6 +227,7 @@
   <ul><details>
     <summary>JVM</summary>
     <ul>
+      <li>JDK, JRE, JVM nima? yani farqlari nima?</li>
       <li>Ular bir-birlariga qanday bog'liq? Yani vazifasi bo'lak va bir-birlarisiz ishlay oladimi o'z vazifalari ustiga?</li>
     </ul>
 </details></ul>
