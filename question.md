@@ -339,5 +339,27 @@
   </ul>
 </details>
 
-[//]: # (Jakarta EE And Spring Framework)
-<details></details>
+[//]: # (Jakarta EE)
+<details>
+<summary>Jakarta EE</summary>
+
+</details>
+
+[//]: # (Spring Framework)
+<details>
+<summary>Spring Framework</summary>
+
+</details>
+
+[//]: # (Spring Security)
+<details>
+<summary>Spring Security</summary>
+
+</details>
+
+[//]: # (Microservice And Other Technicals)
+<details>
+<summary>Microservice And Other Technicals</summary>
+
+</details>
+
